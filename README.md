@@ -4,6 +4,8 @@
 gg
 i am ....Mimma
 \
+day two - soundness game played
+
 new day
 
 
