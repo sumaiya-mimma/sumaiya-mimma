@@ -5,6 +5,7 @@ gg
 i am ....Mimma
 \
 day two - soundness game played
+day three - streak maintained
 
 new day
 
