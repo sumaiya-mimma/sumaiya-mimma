@@ -6,6 +6,7 @@ i am ....Mimma
 \
 day two - soundness game played
 day three - streak maintained
+day four - tryna hold on
 
 new day
 
