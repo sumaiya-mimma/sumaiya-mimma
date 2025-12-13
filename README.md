@@ -11,6 +11,7 @@ day four - tryna hold on
 new day
 day four somewhat broke the streak
 day five - grinding hard
+day 5
 
 
 
