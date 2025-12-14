@@ -2,7 +2,7 @@
 
 <!--
 gg
-i am ....Mimma
+i am ....Sumaiya Mimma
 \
 day two - soundness game played
 day three - streak maintained
