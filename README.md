@@ -12,6 +12,7 @@ new day
 day four somewhat broke the streak
 day five - grinding hard
 day 5
+day 6
 
 
 
