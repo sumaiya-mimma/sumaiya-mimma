@@ -18,6 +18,7 @@ day 6
 day 12 streak maintained
 day 13
 day 15
+day 16
 
 **sumaiya-mimma/sumaiya-mimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
