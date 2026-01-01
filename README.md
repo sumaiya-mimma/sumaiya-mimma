@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+there is no fun fact about me
 frip
 hej
 luffy
