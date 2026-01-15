@@ -24,6 +24,7 @@ day 16
 star
 fay
 doit
+be careful from now on
 **sumaiya-mimma/sumaiya-mimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 missed my streak
 didn't miss my streak
