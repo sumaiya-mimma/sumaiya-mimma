@@ -23,6 +23,7 @@ day 15
 day 16
 star
 fay
+<!i have to learn coding--
 doit
 be careful from now on
 **sumaiya-mimma/sumaiya-mimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
