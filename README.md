@@ -18,6 +18,7 @@ day 6
 day 12 streak maintained
 kok
 day 13
+lovely
 damn
 day 15
 day 16
