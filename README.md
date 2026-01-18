@@ -24,6 +24,7 @@ day 15
 day 16
 star
 fay
+drill
 <!i have to learn coding--
 doit
 be careful from now on
