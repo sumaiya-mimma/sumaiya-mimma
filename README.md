@@ -20,7 +20,7 @@ kok
 day 13
 lovely
 damn
-day 15
+day half 15
 day 16
 star
 fayhj
