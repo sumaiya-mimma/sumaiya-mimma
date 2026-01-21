@@ -20,6 +20,7 @@ kok
 day 13
 lovely
 damn
+none
 day half 15
 day 16
 star
