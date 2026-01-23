@@ -23,6 +23,7 @@ damn
 none
 day half 15
 day 16
+gg
 star
 fayhj
 drill
