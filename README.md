@@ -20,6 +20,7 @@ kok
 day 13
 lovely
 damn
+fkd
 none
 day half 15
 day 16
