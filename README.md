@@ -22,6 +22,7 @@ lovely
 damn
 fkd
 none
+right
 dd
 day half 15
 day 16
