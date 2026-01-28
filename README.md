@@ -26,6 +26,7 @@ none
 right
 dd
 day half 15
+sdkjjiei
 day 16
 gg
 star
