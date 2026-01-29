@@ -20,6 +20,7 @@ kok
 day 13
 lovely
 damn
+lmao
 didi
 fkd
 none
