@@ -19,6 +19,7 @@ jklki
 gg
 day 12 streak maintained
 kok
+laugh
 day 13
 lovely
 damn
