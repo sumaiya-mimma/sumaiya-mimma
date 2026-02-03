@@ -16,6 +16,7 @@ day five - grinding hard
 day 5
 day 6
 jklki
+lies
 gg
 day 12 streak maintained
 kok
