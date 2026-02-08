@@ -10,7 +10,7 @@ day two - soundness game played
 day three - streak maintained
 day four - tryna hold on
 
-
+dish
 nothing
 new day
 day four somewhat broke the streak
