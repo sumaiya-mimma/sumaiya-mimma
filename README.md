@@ -13,6 +13,7 @@ day four - tryna hold on
 huio
 dish
 nothing
+helpful
 new day
 day four somewhat broke the streak
 day five - grinding hard
