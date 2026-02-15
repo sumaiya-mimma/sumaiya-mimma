@@ -7,7 +7,7 @@ i am ....Sumaiya Mimma
 heuy
 who are you?
 fkjfhi
-\
+\ki
 day two - soundness game played
 day three - streak maintained
 day four - tryna hold on
