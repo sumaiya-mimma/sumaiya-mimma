@@ -6,6 +6,7 @@ gg
 i am ....Sumaiya Mimma
 heuy
 who are you?
+gg
 fkjfhi
 \ki
 day two - soundness game played
