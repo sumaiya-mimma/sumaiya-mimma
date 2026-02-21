@@ -17,6 +17,7 @@ dish
 nothing
 helpful
 new day
+like
 hisk
 day four somewhat broke the streak
 day five - grinding hard
