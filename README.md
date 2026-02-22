@@ -8,6 +8,7 @@ heuy
 who are you?
 gg
 fkjfhi
+dance
 \ki
 day two - soundness game played
 day three - streak maintained
