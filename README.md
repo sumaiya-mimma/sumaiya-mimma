@@ -11,6 +11,7 @@ gg
 fkjfhi
 dance
 \ki
+pros
 day two - soundness game played
 day three - streak maintained
 day four - tryna hold on
