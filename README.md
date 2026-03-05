@@ -12,6 +12,7 @@ hello
 gg
 fkjfhikjbk
 dance
+jiji
 \ki
 pros
 day two - soundness game played
