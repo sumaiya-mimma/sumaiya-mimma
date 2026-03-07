@@ -16,6 +16,7 @@ dance
 jiji
 \ki
 pros
+ditto
 day two - soundness game played
 gunnu
 day three - streak maintained
